@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Beverage_Shop.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Beverage_Shop.dir/objects.a @CMakeFiles\Beverage_Shop.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Beverage_Shop.dir/objects.a -Wl,--no-whole-archive -o Beverage_Shop.exe -Wl,--out-implib,libBeverage_Shop.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Beverage_Shop.dir\linklibs.rsp

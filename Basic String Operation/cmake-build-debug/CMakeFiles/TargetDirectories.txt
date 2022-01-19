@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Basic String Operation/cmake-build-debug/CMakeFiles/Basic_String_Operation.dir
+C:/Users/user/Desktop/C_program_HW/Basic String Operation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Basic String Operation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
