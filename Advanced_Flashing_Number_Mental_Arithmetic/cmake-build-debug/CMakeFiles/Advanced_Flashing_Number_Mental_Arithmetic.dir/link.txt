@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Advanced_Flashing_Number_Mental_Arithmetic.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Advanced_Flashing_Number_Mental_Arithmetic.dir/objects.a @CMakeFiles\Advanced_Flashing_Number_Mental_Arithmetic.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Advanced_Flashing_Number_Mental_Arithmetic.dir/objects.a -Wl,--no-whole-archive -o Advanced_Flashing_Number_Mental_Arithmetic.exe -Wl,--out-implib,libAdvanced_Flashing_Number_Mental_Arithmetic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Advanced_Flashing_Number_Mental_Arithmetic.dir\linklibs.rsp

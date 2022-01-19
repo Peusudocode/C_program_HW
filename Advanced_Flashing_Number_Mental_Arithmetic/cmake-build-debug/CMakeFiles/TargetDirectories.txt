@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Advanced_Flashing_Number_Mental_Arithmetic/cmake-build-debug/CMakeFiles/Advanced_Flashing_Number_Mental_Arithmetic.dir
+C:/Users/user/Desktop/C_program_HW/Advanced_Flashing_Number_Mental_Arithmetic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Advanced_Flashing_Number_Mental_Arithmetic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
