@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Split_the_number.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Split_the_number.dir/objects.a @CMakeFiles\Split_the_number.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Split_the_number.dir/objects.a -Wl,--no-whole-archive -o Split_the_number.exe -Wl,--out-implib,libSplit_the_number.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Split_the_number.dir\linklibs.rsp

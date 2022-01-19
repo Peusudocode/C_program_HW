@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Secret_Value.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Secret_Value.dir/objects.a @CMakeFiles\Secret_Value.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Secret_Value.dir/objects.a -Wl,--no-whole-archive -o Secret_Value.exe -Wl,--out-implib,libSecret_Value.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Secret_Value.dir\linklibs.rsp

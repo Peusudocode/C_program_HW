@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Weighted Score/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/C_program_HW/Weighted Score/cmake-build-debug/CMakeFiles/Weighted_Score.dir
+C:/Users/user/Desktop/C_program_HW/Weighted Score/cmake-build-debug/CMakeFiles/edit_cache.dir

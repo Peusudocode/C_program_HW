@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\XOR_Cipher.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\XOR_Cipher.dir/objects.a @CMakeFiles\XOR_Cipher.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\XOR_Cipher.dir/objects.a -Wl,--no-whole-archive -o XOR_Cipher.exe -Wl,--out-implib,libXOR_Cipher.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\XOR_Cipher.dir\linklibs.rsp

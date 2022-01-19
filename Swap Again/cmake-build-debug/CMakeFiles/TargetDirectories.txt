@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Swap Again/cmake-build-debug/CMakeFiles/Swap_Again.dir
+C:/Users/user/Desktop/C_program_HW/Swap Again/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Swap Again/cmake-build-debug/CMakeFiles/rebuild_cache.dir

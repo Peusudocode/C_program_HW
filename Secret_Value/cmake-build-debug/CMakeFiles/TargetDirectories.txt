@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Secret_Value/cmake-build-debug/CMakeFiles/Secret_Value.dir
+C:/Users/user/Desktop/C_program_HW/Secret_Value/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Secret_Value/cmake-build-debug/CMakeFiles/rebuild_cache.dir

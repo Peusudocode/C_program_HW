@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Sorting Student Name/cmake-build-debug/CMakeFiles/Sorting_Student_Name.dir
+C:/Users/user/Desktop/C_program_HW/Sorting Student Name/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Sorting Student Name/cmake-build-debug/CMakeFiles/rebuild_cache.dir

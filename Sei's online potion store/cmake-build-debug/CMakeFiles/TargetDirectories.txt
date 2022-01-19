@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Sei's online potion store/cmake-build-debug/CMakeFiles/Sei_s_online_potion_store.dir
+C:/Users/user/Desktop/C_program_HW/Sei's online potion store/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Sei's online potion store/cmake-build-debug/CMakeFiles/rebuild_cache.dir

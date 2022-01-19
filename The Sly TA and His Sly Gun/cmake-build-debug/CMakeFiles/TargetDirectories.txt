@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/The Sly TA and His Sly Gun/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/The Sly TA and His Sly Gun/cmake-build-debug/CMakeFiles/The_Sly_TA_and_His_Sly_Gun.dir
+C:/Users/user/Desktop/C_program_HW/The Sly TA and His Sly Gun/cmake-build-debug/CMakeFiles/rebuild_cache.dir

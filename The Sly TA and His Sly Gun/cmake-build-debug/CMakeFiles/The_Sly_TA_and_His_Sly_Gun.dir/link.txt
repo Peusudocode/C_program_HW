@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\The_Sly_TA_and_His_Sly_Gun.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\The_Sly_TA_and_His_Sly_Gun.dir/objects.a @CMakeFiles\The_Sly_TA_and_His_Sly_Gun.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\The_Sly_TA_and_His_Sly_Gun.dir/objects.a -Wl,--no-whole-archive -o The_Sly_TA_and_His_Sly_Gun.exe -Wl,--out-implib,libThe_Sly_TA_and_His_Sly_Gun.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\The_Sly_TA_and_His_Sly_Gun.dir\linklibs.rsp
