@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Magic_Bug.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Magic_Bug.dir/objects.a @CMakeFiles\Magic_Bug.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Magic_Bug.dir/objects.a -Wl,--no-whole-archive -o Magic_Bug.exe -Wl,--out-implib,libMagic_Bug.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Magic_Bug.dir\linklibs.rsp

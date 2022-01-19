@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Let_s_Build_Great_Great_Walls.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Let_s_Build_Great_Great_Walls.dir/objects.a @CMakeFiles\Let_s_Build_Great_Great_Walls.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Let_s_Build_Great_Great_Walls.dir/objects.a -Wl,--no-whole-archive -o Let_s_Build_Great_Great_Walls.exe -Wl,--out-implib,libLet_s_Build_Great_Great_Walls.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Let_s_Build_Great_Great_Walls.dir\linklibs.rsp

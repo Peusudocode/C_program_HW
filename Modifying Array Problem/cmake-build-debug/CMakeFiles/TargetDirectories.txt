@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Modifying Array Problem/cmake-build-debug/CMakeFiles/Modifying_Array_Problem.dir
+C:/Users/user/Desktop/C_program_HW/Modifying Array Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Modifying Array Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

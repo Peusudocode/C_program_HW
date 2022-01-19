@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Let's Build Great Great Walls/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/C_program_HW/Let's Build Great Great Walls/cmake-build-debug/CMakeFiles/Let_s_Build_Great_Great_Walls.dir
+C:/Users/user/Desktop/C_program_HW/Let's Build Great Great Walls/cmake-build-debug/CMakeFiles/edit_cache.dir

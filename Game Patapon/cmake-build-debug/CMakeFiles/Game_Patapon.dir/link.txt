@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Game_Patapon.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Game_Patapon.dir/objects.a @CMakeFiles\Game_Patapon.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Game_Patapon.dir/objects.a -Wl,--no-whole-archive -o Game_Patapon.exe -Wl,--out-implib,libGame_Patapon.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Game_Patapon.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FORTUNE_LOVER.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\FORTUNE_LOVER.dir/objects.a @CMakeFiles\FORTUNE_LOVER.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\FORTUNE_LOVER.dir/objects.a -Wl,--no-whole-archive -o FORTUNE_LOVER.exe -Wl,--out-implib,libFORTUNE_LOVER.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FORTUNE_LOVER.dir\linklibs.rsp

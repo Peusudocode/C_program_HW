@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Find Maximum Fruit Number/cmake-build-debug/CMakeFiles/Find_Maximum_Fruit_Number.dir
+C:/Users/user/Desktop/C_program_HW/Find Maximum Fruit Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Find Maximum Fruit Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

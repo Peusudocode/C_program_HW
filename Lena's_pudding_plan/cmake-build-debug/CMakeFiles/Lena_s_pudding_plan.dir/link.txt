@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Lena_s_pudding_plan.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Lena_s_pudding_plan.dir/objects.a @CMakeFiles\Lena_s_pudding_plan.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Lena_s_pudding_plan.dir/objects.a -Wl,--no-whole-archive -o Lena_s_pudding_plan.exe -Wl,--out-implib,libLena_s_pudding_plan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lena_s_pudding_plan.dir\linklibs.rsp

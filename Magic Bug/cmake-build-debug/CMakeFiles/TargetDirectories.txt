@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Magic Bug/cmake-build-debug/CMakeFiles/Magic_Bug.dir
+C:/Users/user/Desktop/C_program_HW/Magic Bug/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Magic Bug/cmake-build-debug/CMakeFiles/rebuild_cache.dir
