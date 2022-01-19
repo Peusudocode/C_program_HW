@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Congruent_OOXX_Triangle.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Congruent_OOXX_Triangle.dir/objects.a @CMakeFiles\Congruent_OOXX_Triangle.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Congruent_OOXX_Triangle.dir/objects.a -Wl,--no-whole-archive -o Congruent_OOXX_Triangle.exe -Wl,--out-implib,libCongruent_OOXX_Triangle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Congruent_OOXX_Triangle.dir\linklibs.rsp

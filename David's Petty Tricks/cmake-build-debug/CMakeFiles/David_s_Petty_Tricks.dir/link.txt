@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\David_s_Petty_Tricks.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\David_s_Petty_Tricks.dir/objects.a @CMakeFiles\David_s_Petty_Tricks.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\David_s_Petty_Tricks.dir/objects.a -Wl,--no-whole-archive -o David_s_Petty_Tricks.exe -Wl,--out-implib,libDavid_s_Petty_Tricks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\David_s_Petty_Tricks.dir\linklibs.rsp

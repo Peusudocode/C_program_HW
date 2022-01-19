@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/C_program_HW/David's Petty Tricks2/main.cpp
+stdio.h
+-
+stdint.h
+-
+assert.h
+-
+

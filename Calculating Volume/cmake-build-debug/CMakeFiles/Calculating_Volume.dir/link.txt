@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Calculating_Volume.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Calculating_Volume.dir/objects.a @CMakeFiles\Calculating_Volume.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Calculating_Volume.dir/objects.a -Wl,--no-whole-archive -o Calculating_Volume.exe -Wl,--out-implib,libCalculating_Volume.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Calculating_Volume.dir\linklibs.rsp

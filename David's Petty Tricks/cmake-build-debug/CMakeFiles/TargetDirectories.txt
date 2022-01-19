@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/David's Petty Tricks/cmake-build-debug/CMakeFiles/David_s_Petty_Tricks.dir
+C:/Users/user/Desktop/C_program_HW/David's Petty Tricks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/David's Petty Tricks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

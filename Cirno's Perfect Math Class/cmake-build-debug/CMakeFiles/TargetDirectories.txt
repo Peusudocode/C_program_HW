@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Cirno's Perfect Math Class/cmake-build-debug/CMakeFiles/Cirno_s_Perfect_Math_Class.dir
+C:/Users/user/Desktop/C_program_HW/Cirno's Perfect Math Class/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Cirno's Perfect Math Class/cmake-build-debug/CMakeFiles/rebuild_cache.dir

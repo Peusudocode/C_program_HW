@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Department_Store_Anniversary.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Department_Store_Anniversary.dir/objects.a @CMakeFiles\Department_Store_Anniversary.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Department_Store_Anniversary.dir/objects.a -Wl,--no-whole-archive -o Department_Store_Anniversary.exe -Wl,--out-implib,libDepartment_Store_Anniversary.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Department_Store_Anniversary.dir\linklibs.rsp

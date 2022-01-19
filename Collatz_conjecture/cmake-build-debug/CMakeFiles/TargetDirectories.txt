@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C_program_HW/Collatz_conjecture/cmake-build-debug/CMakeFiles/Collatz_conjecture.dir
+C:/Users/user/Desktop/C_program_HW/Collatz_conjecture/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C_program_HW/Collatz_conjecture/cmake-build-debug/CMakeFiles/rebuild_cache.dir

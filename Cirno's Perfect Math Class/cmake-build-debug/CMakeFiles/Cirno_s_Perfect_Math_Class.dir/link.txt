@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Cirno_s_Perfect_Math_Class.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Cirno_s_Perfect_Math_Class.dir/objects.a @CMakeFiles\Cirno_s_Perfect_Math_Class.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Cirno_s_Perfect_Math_Class.dir/objects.a -Wl,--no-whole-archive -o Cirno_s_Perfect_Math_Class.exe -Wl,--out-implib,libCirno_s_Perfect_Math_Class.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Cirno_s_Perfect_Math_Class.dir\linklibs.rsp
